@@ -1,4 +1,4 @@
-score=input("Enter the sore: ")
+score=input("Enter the score: ")
 score=float(score)
 try:
         if score<=1.0:
